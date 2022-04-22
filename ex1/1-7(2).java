@@ -1,5 +1,5 @@
 import java.util.Scanner;
-  
+ 
 class Main {
   public String solution(String str){
     String answer="NO";
